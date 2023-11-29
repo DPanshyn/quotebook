@@ -2,3 +2,5 @@ do or do not, there is no try -
 Yoda
 
 new item for inspirational
+
+The best way to predict the future is to create it - Peter
