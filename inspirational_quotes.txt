@@ -4,3 +4,5 @@ Yoda
 new item for inspirational
 
 The best way to predict the future is to create it - Peter
+
+If you can dream it, you can do it - Walt Disney
